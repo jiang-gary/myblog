@@ -4,9 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "docs:dev": "vitepress dev docs",
-    "docs:serve": "vitepress serve docs --port 8080",
-    "docs:build": "vitepress build docs",
+    "docs:dev": "vuepress dev docs",
+    "docs:serve": "vuepress serve docs --port 8080",
+    "docs:build": "vuepress build docs",
     "deploy-gh": "sh deploy.sh",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -14,6 +14,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "vitepress": "1.0.0-alpha.12"
+    "vuepress": "^1.9.7",
+    "vuepress-theme-vdoing": "^1.12.8"
   }
 }
