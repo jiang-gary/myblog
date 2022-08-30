@@ -2,8 +2,6 @@
 .DS_Store
 .history
 node_modules
-/dist
-dist
 scripts/docsearch-scraper
 
 # local env files

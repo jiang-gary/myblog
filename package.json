@@ -7,6 +7,7 @@
     "docs:dev": "vitepress dev docs",
     "docs:serve": "vitepress serve docs --port 8080",
     "docs:build": "vitepress build docs",
+    "deploy-gh": "sh deploy.sh",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
