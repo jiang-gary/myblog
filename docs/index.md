@@ -3,7 +3,7 @@ home: true
 heroText: JR-Blog
 tagline: 🚀 一切都江江好 学习记录 保持思考
 actionText: 开始吧 ~
-actionLink: /pages/a2f161/
+actionLink: /pages/5ea030/
 bannerBg: none # auto => 网格纹背景(有bodyBgImg时无背景)，默认 | none => 无 | '大图地址' | background: 自定义背景样式       提示：如发现文本颜色不适应你的背景时可以到palette.styl修改$bannerTextColor变量
 
 features: # 可选的
